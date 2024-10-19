@@ -2,9 +2,17 @@
 <h1 align="center">Всем привет, Я Артём</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий Python-разработчик</h3>
-<img alt="Static Badge" src="https://img.shields.io/badge/py-python-green?style=plastic&logo=python"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/-PostgreSQL-orange%20?style=plastic&logo=postgresql&logoColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/-%D0%94%D0%BB%D1%8F%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D1%81%D0%BE%20%D0%BC%D0%BD%D0%BE%D0%B9-green?style=plastic&logo=telegram&link=https%3A%2F%2Ft.me%2Felectr0dus">
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/py-python-green?style=plastic&logo=python"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/-PostreSQL-green?style=plastic&logo=postgresql">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-HTML-green?style=plastic&logo=html5">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-django-green?style=plastic&logo=django&logoColor=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Git-green?style=plastic&logo=git">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-FastAPI-green?style=plastic&logo=fastapi">
 
+
+</div>
 
 
 <!--

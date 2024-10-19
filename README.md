@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Всем привет, Я Артём</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Начинающий Python-разработчик</h3>
 
 <!--
 **Electr0dus/Electr0dus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

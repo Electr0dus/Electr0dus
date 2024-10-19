@@ -30,3 +30,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electr0dus&theme=highcontrast_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electr0dus&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=electr0dus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)

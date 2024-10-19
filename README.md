@@ -2,6 +2,10 @@
 <h1 align="center">Всем привет, Я Артём</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий Python-разработчик</h3>
+<img alt="Static Badge" src="https://img.shields.io/badge/py-python-green?style=plastic&logo=python"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/-PostgreSQL-orange%20?style=plastic&logo=postgresql&logoColor=blue">
+
+
 
 <!--
 **Electr0dus/Electr0dus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

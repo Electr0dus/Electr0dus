@@ -1,3 +1,4 @@
+<img src="https://github.com/Electr0dus/Electr0dus/blob/main/dribbble_gif.gif" alt="The Unlimited">
 <h1 align="center">Всем привет, Я Артём</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий Python-разработчик</h3>
